@@ -1,8 +1,8 @@
-CREATE DATABASE  IF NOT EXISTS `hombemzen` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `hombemzen`;
+CREATE DATABASE  IF NOT EXISTS `bemzenbazar` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `bemzenbazar`;
 -- MySQL dump 10.13  Distrib 5.6.13, for Win32 (x86)
 --
--- Host: 10.0.20.3    Database: hombemzen
+-- Host: 127.0.0.1    Database: bemzenbazar
 -- ------------------------------------------------------
 -- Server version	5.1.57-community
 

@@ -6,22 +6,22 @@ define('HTTP_SERVER', 'http://www.bemzenbazar.com.br/');
 define('HTTPS_SERVER', 'http://www.bemzenbazar.com.br/');
 
 // DIR
-define('DIR_APPLICATION', 'C:\HostingSpaces\webca\bemzenbazar.webca.com.br\wwwroot/catalog/');
-define('DIR_SYSTEM', 'C:\HostingSpaces\webca\bemzenbazar.webca.com.br\wwwroot/system/');
-define('DIR_DATABASE', 'C:\HostingSpaces\webca\bemzenbazar.webca.com.br\wwwroot/system/database/');
-define('DIR_LANGUAGE', 'C:\HostingSpaces\webca\bemzenbazar.webca.com.br\wwwroot/catalog/language/');
-define('DIR_TEMPLATE', 'C:\HostingSpaces\webca\bemzenbazar.webca.com.br\wwwroot/catalog/view/theme/');
-define('DIR_CONFIG', 'C:\HostingSpaces\webca\bemzenbazar.webca.com.br\wwwroot/system/config/');
-define('DIR_IMAGE', 'C:\HostingSpaces\webca\bemzenbazar.webca.com.br\wwwroot/image/');
-define('DIR_CACHE', 'C:\HostingSpaces\webca\bemzenbazar.webca.com.br\wwwroot/system/cache/');
-define('DIR_DOWNLOAD', 'C:\HostingSpaces\webca\bemzenbazar.webca.com.br\wwwroot/download/');
-define('DIR_LOGS', 'C:\HostingSpaces\webca\bemzenbazar.webca.com.br\wwwroot/system/logs/');
+define('DIR_APPLICATION', '/srv/httpd/bemzenbazar.com.br/public/catalog/');
+define('DIR_SYSTEM', '/srv/httpd/bemzenbazar.com.br/public/system/');
+define('DIR_DATABASE', '/srv/httpd/bemzenbazar.com.br/public/system/database/');
+define('DIR_LANGUAGE', '/srv/httpd/bemzenbazar.com.br/public/catalog/language/');
+define('DIR_TEMPLATE', '/srv/httpd/bemzenbazar.com.br/public/catalog/view/theme/');
+define('DIR_CONFIG', '/srv/httpd/bemzenbazar.com.br/public/system/config/');
+define('DIR_IMAGE', '/srv/httpd/bemzenbazar.com.br/public/image/');
+define('DIR_CACHE', '/srv/httpd/bemzenbazar.com.br/public/system/cache/');
+define('DIR_DOWNLOAD', '/srv/httpd/bemzenbazar.com.br/public/download/');
+define('DIR_LOGS', '/srv/httpd/bemzenbazar.com.br/public/system/logs/');
 
 // DB
 define('DB_DRIVER', 'mysql');
-define('DB_HOSTNAME', '10.0.20.3');
-define('DB_USERNAME', 'hombemzen');
-define('DB_PASSWORD', '12qw12qw');
-define('DB_DATABASE', 'hombemzen');
+define('DB_HOSTNAME', '127.0.0.1');
+define('DB_USERNAME', 'bemzenbazar');
+define('DB_PASSWORD', 'yhs63gf3f');
+define('DB_DATABASE', 'bemzenbazar');
 define('DB_PREFIX', 'oc_');
 ?>
