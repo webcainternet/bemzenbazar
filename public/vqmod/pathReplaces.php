@@ -11,5 +11,5 @@
 
 
 // START REPLACES //
-$replaces[] = array('~\btheme/default\b~', 'theme/theme251');
+
 // END REPLACES //
