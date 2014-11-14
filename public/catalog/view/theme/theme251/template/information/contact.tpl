@@ -31,7 +31,7 @@
 			</div>
 			<div class="map-content span6">         
 				<figure>
-				<iframe width="100%" height="200px"  src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Brooklyn,+New+York,+NY,+United+States&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=61.282355,146.513672&amp;ie=UTF8&amp;hq=&amp;hnear=Brooklyn,+Kings,+New+York&amp;ll=40.649974,-73.950005&amp;spn=0.01628,0.025663&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+				<iframe width="100%" height="200px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.85272410557!2d-46.64117060000003!3d-23.64544479999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5ae7fbc58323%3A0xa04f0e93835458ed!2sAv.+Eng.+Armando+de+Arruda+Pereira%2C+2022+-+Jabaquara%2C+S%C3%A3o+Paulo+-+SP!5e0!3m2!1spt-BR!2sbr!4v1415978279455" frameborder="0" style="border:0"></iframe>
 				</figure>
 			</div>
 		</div>
