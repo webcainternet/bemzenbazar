@@ -9,3 +9,110 @@
 2013-08-13 16:45:34 - PHP Notice:  Error: Duplicate entry '63-63' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO `oc_category_path` SET `category_id` = '63', `path_id` = '63', `level` = '1' in /srv/httpd/bemzenbazar.com.br/public\system\database\mysql.php on line 50
 2013-08-13 16:46:10 - PHP Notice:  Error: Duplicate entry '64-64' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO `oc_category_path` SET `category_id` = '64', `path_id` = '64', `level` = '1' in /srv/httpd/bemzenbazar.com.br/public\system\database\mysql.php on line 50
 2014-07-17 8:41:48 - PHP Warning:  session_start(): open(C:\Windows\temp\sess_5rd5iq4me7p2ee6ntuvvrmaui1, O_RDWR) failed: Permission denied (13) in /srv/httpd/bemzenbazar.com.br/public\system\library\session.php on line 11
+2014-08-09 19:42:54 - PHP Notice:  unserialize(): Error at offset 4493 of 51927 bytes in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/system/library/cache.php on line 11
+2014-08-10 4:00:09 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-10 4:00:09 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-10 16:07:08 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-10 16:07:08 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-10 16:31:55 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-10 16:31:55 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-10 16:37:34 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-10 16:37:34 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-10 18:06:12 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-10 18:06:12 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-10 18:57:42 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-10 18:57:42 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 0:50:27 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 0:50:27 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 1:12:10 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 1:12:10 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 8:52:15 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 8:52:15 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 9:07:17 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 9:07:17 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 9:27:15 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 9:27:15 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 10:38:15 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 10:38:15 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 11:07:20 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 11:07:20 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 11:52:22 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 11:52:22 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 11:58:20 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 11:58:20 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 12:04:20 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 12:04:20 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 12:18:20 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 12:18:20 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 13:49:29 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 13:49:29 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 22:22:41 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-12 22:22:41 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 1:52:35 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 1:52:35 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 2:33:17 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 2:33:17 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 3:31:26 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 3:31:26 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 4:35:35 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 4:35:35 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 4:54:49 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 4:54:49 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 5:29:22 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 5:29:22 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 5:30:11 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 5:30:11 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 5:43:12 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 5:43:12 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 7:33:23 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 7:33:23 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 8:24:22 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 8:24:22 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 10:10:04 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 10:10:04 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 10:18:50 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 10:18:50 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 10:40:37 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 10:40:37 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 12:40:16 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 12:40:17 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 13:39:24 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 13:39:24 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 14:18:23 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 14:18:23 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 14:42:15 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 14:42:15 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 19:05:24 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 19:05:24 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 20:03:45 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 20:03:45 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 22:25:32 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 22:25:32 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 23:15:29 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-13 23:15:29 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-14 1:06:56 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-14 1:06:56 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-14 1:36:52 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-14 1:36:52 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-14 17:44:48 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-14 17:44:48 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-19 22:52:08 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-19 22:52:08 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-20 14:35:30 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-20 14:35:31 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-20 14:49:17 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-20 14:49:17 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-20 15:28:11 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-20 15:28:11 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-20 15:31:26 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-20 15:31:26 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-20 15:35:06 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-20 15:35:06 - PHP Notice:  Use of undefined constant php - assumed 'php' in /srv/httpd/bemzenbazar.com.br/bemzenbazar/public/catalog/view/theme/theme251/template/product/product.tpl on line 433
+2014-08-20 16:09:07 - PagSeguro: 
+2014-08-20 16:09:40 - PagSeguro: 
+2014-08-20 16:09:42 - PagSeguro: 
+2014-08-20 16:09:49 - PagSeguro: 
+2014-08-20 16:09:56 - PagSeguro: 
+2014-08-20 16:10:14 - PagSeguro: 
+2014-08-20 16:10:30 - PagSeguro: 
+2014-08-20 16:11:06 - PagSeguro: 
